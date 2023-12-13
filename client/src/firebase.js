@@ -1,14 +1,14 @@
 import firebase from "firebase/compat/app";
 import "firebase/compat/auth";
 
-// const firebaseConfig = {
-//     apiKey: "AIzaSyAd0f_VFh3loT2BS-c83rdD_yTKH6hDHns",
-//     authDomain: "react-blog-test-695bd.firebaseapp.com",
-//     projectId: "react-blog-test-695bd",
-//     storageBucket: "react-blog-test-695bd.appspot.com",
-//     messagingSenderId: "374403668782",
-//     appId: "1:374403668782:web:44de0f5df88e32eabcb8bf"
-// };
+const firebaseConfig = {
+    apiKey: "AIzaSyC4CKt5ZZZwOJdRrJyg8JGJuLsWnfzf1jQ",
+    authDomain: "react-blog-test-31312.firebaseapp.com",
+    projectId: "react-blog-test-31312",
+    storageBucket: "react-blog-test-31312.appspot.com",
+    messagingSenderId: "1055127147361",
+    appId: "1:1055127147361:web:a6a104fd45d6a0fc912b20"
+};
 
 firebase.initializeApp(firebaseConfig);
 
