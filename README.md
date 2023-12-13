@@ -9,7 +9,7 @@ npm install @emotion/react
 npm install @emotion/styled   
 npm install firebase   
 npm install react-redux   
-npm install @reduxjs/toolkit   
+npm install @reduxjs/toolkit
 
 ## server
 npm init;   
