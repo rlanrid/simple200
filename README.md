@@ -19,7 +19,7 @@ npm install nodemon --save;
 npm install path --save;   
 npm install mongoose --save;   
 npm install multer --save;   
-
+npm install aws-sdk@2.348.0 --save   
 npm install multer-s3 --save;   
 
 ## 제작과정
@@ -70,3 +70,5 @@ app.listen(port, () => {
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 ```
+
+## 트러블 슈팅
