@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <header id='header' role='banner'>
             <div className='left'>
-                <h1 className='logo'>webs ai</h1>
+                <h1 className='logo'>Rlan's ai</h1>
                 <nav className='nav'>
                     <ul>
                         <li>

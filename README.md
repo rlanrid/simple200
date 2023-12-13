@@ -72,3 +72,10 @@ app.use(express.urlencoded({ extended: true }));
 ```
 
 ## 트러블 슈팅
+<details>
+    <summary>
+        client폴더에 화살표 생김
+    </summary>
+    1. rm -rf .git   
+    2. git rm --cached . -rf`
+</details>
